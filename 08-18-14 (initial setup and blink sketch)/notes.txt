@@ -1,0 +1,13 @@
+Links:
+https://communities.intel.com/docs/DOC-22192
+https://communities.intel.com/docs/DOC-22872
+
+
+Steps followed:
+- Downloaded Arduino IDE, installed driver, blah, blah, blah.
+- Updated firmware on device.
+- Tested board with basic blink sketch.
+
+Results:
+- First upload of blink sketch yielded no results. Looked at common errors, didn't seem to be one.
+- Tried changing the board in the tools menu from Intel Galileo Gen 2 to Intel Galileo. This worked even though I am pretty sure I have a Gen 2 board.
